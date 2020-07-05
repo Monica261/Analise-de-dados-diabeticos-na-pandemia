@@ -5,5 +5,5 @@
 </p>
 
 <p>
-	Os dados foram extraídos do [https://www.diabetesatlas.org/data/en/country/27/br.html] (Site Internacional de Diabetes), que conta com várias informações de vários países, incluindo o Brasil com seus respectivos dados sobre a doença. O site também dispõe de uma estimativa de alguns dados sobre a doença nos anos de 2030 e 2045 
+	Os dados foram extraídos [https://www.diabetesatlas.org/data/en/country/27/br.html](aqui) (Site Internacional de Diabetes), que conta com várias informações de vários países, incluindo o Brasil com seus respectivos dados sobre a doença. O site também dispõe de uma estimativa de alguns dados sobre a doença nos anos de 2030 e 2045 
 </p>
